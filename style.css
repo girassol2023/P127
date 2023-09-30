@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(168, 255, 226);
+}
+
+#titulo {
+    color: white;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: grey 20px;
+    padding: 20px;
+    margin: auto;
+}
+
+#musicname {
+    font-size: medium;
+}
+
+#texto {
+ font-size: 17px;
+}
